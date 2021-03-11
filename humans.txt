@@ -1,4 +1,4 @@
-# humanstxt.org/
+i# humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Vijendra
 
 # TECHNOLOGY COLOPHON
 
